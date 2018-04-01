@@ -1,8 +1,8 @@
 # Imposter Syndrome [and Diversity Speaker Outreach]
 
-This is a workshop for people who are thinking about speaking at WordPress events, such as WordPress Meetups and WordCamps.
+We are keeping track of how many WP groups run the workshops this year. If you're planning on running it, please either [let us know here](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/diversity-speaker-training-workshop/) or message @jillbinder on Slack.
 
-We are keeping track of how many WP groups run the workshops this year. If you're planning on running it, please either [let us know here](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/diversity-speaker-training-workshop/) or message @jillbinder on Slack.   **<span style="color: #ff0000;">This lesson needs to be created. Suggested we use ADA's Impostor Syndrome training at https://adainitiative.org/continue-our-work/impostor-syndrome-training/</span>** 
+**This lesson needs to be created. Suggested we use ADA's Impostor Syndrome training at https://adainitiative.org/continue-our-work/impostor-syndrome-training/** 
 
 ## Meetup Description
 
@@ -14,28 +14,28 @@ Many of us suffer from imposter syndrome: we feel certain that we don't actually
 
 **This workshop is for you if:**
 
-*   [You identify as {specific group}]
-*   You think everyone else around you is far more skilled than you are at what you do
-*   You’ve thought about getting up there to speak at Meetup or WordCamp, but are afraid you are not enough of an expert
+* [You identify as {specific group}]
+* You think everyone else around you is far more skilled than you are at what you do
+* You’ve thought about getting up there to speak at Meetup or WordCamp, but are afraid you are not enough of an expert
 
 **This workshop is NOT for you if:**
 
-*   [You identify as {not specific group}]
-*   [You don’t think it matters that there are very few {specific group} speakers at WordPress events]
+* [You identify as {not specific group}]
+* [You don’t think it matters that there are very few {specific group} speakers at WordPress events]
 
 **Agenda**
 
-*   What is imposter syndrome?
-*   Writing exercises to help overcome imposter syndrome.
+* What is imposter syndrome?
+* Writing exercises to help overcome imposter syndrome.
 
 **Accessibility**
 
-*   The venue has [elevators, ramps, etc.], [single stall washrooms for non-binary genders], [etc.].
-*   Please don’t wear scents.
+* The venue has [elevators, ramps, etc.], [single stall washrooms for non-binary genders], [etc.].
+* Please don’t wear scents.
 
 ## Prerequisite Skills
 
-*   N/A
+* N/A
 
 ## Objectives
 
@@ -43,27 +43,27 @@ It’s recommended that you include a bulleted list of objective(s) for each les
 
 **Correct**
 
-*   Students will be able to identify the files required to make a theme.
+* Students will be able to identify the files required to make a theme.
 
 **Incorrect**
 
-*   Students will know the files required to make a theme.
+* Students will know the files required to make a theme.
 
 ## Assets
 
 A bulleted list of linked files/materials the instructor needs to teach the lesson plan.
 
-*   [Links to download files](https://make.wordpress.org/training/getting-started/anatomy-of-a-lesson/#)
+* [Links to download files](https://make.wordpress.org/training/getting-started/anatomy-of-a-lesson/#)
 
 ## Screening Questions
 
 A list of evaluation questions for students to see if they have the skills necessary to learn and understand the lesson. These can be used as pre-screening questions on Meetup.
 
-*   For example, have you ever used WordPress?
+* For example, have you ever used WordPress?
 
 ## Teacher Notes
 
-_This section repeats from the [Teacher Notes in Lesson 1](https://github.com/wptrainingteam/becoming-a-better-speaker). It's very important. Please read it.
+_This section repeats from the [Teacher Notes in Lesson 1](https://github.com/wptrainingteam/becoming-a-better-speaker). It's very important. Please read it._
 
 ## Workshop
 
@@ -81,17 +81,17 @@ There can be short or specific activities that test an understanding and help yo
 
 Short description of what the exercise does and what skills or knowledge it reinforces.
 
-*   Short point or step of the exercise
-*   And another.
+* Short point or step of the exercise
+* And another.
 
 ### Quiz
 
 A short quiz for students to evaluate their retention of the material presented. **Write out the question.**
 
-1.  Option
-2.  Option
-3.  Option
-4.  Option
+1. Option
+2. Option
+3. Option
+4. Option
 
 **Answer** 3\. Correct answer  
 
